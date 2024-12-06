@@ -16,7 +16,7 @@ public class StudiKasusKafe {
 
         while (true) {
             System.out.print("Pilih menu (Masukkan nomor menu, atau 0 untuk selesai): ");
-            
+            System.out.println();
         }
     }
     
